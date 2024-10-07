@@ -1,6 +1,6 @@
 # Arabic LLaMA Math Dataset
 
-![image](https://github.com/user-attachments/assets/86733afd-8fde-4ca1-85a6-3882d5689936)
+![image](https://github.com/user-attachments/assets/0fd1002e-ec9d-48d9-b4b8-8ac0790bc191)
 
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
@@ -18,10 +18,9 @@
 ## Dataset Overview
 
 - **Dataset Name:** Arabic_LLaMA_Math_Dataset.csv
-- **File Size:** 10.87 MB
 - **Number of Records:** 12,496
 - **Number of Columns:** 3
-- **File Format:** CSV (Comma-Separated Values)
+- **File Format:** CSV
 
 ## Dataset Structure
 
@@ -89,10 +88,10 @@ If you use this dataset in your research, please cite it as follows:
 ```bibtex
 @dataset{Arabic_LLaMA_Math_Dataset,
   title = {Arabic LLaMA Math Dataset},
-  author = {Your Name},
+  author = {Jaber Jaber},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/Arabic_LLaMA_Math_Dataset},
+  url = {https://github.com/jaberjaber23/Arabic_LLaMA_Math_Dataset},
   version = {1.0}
 }
 ```
@@ -101,6 +100,3 @@ If you use this dataset in your research, please cite it as follows:
 
 This dataset is released under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). This means you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
 
-## Acknowledgments
-
-[Your acknowledgments for contributors, funding sources, or institutions go here]
