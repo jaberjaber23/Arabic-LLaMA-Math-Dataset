@@ -1,5 +1,8 @@
 # Arabic LLaMA Math Dataset
 
+**Hugging Face Datasets:** [Jr23xd23/Arabic_LLaMA_Math_Dataset](https://huggingface.co/datasets/Jr23xd23/Arabic_LLaMA_Math_Dataset)
+
+
 ## Example Entries
 ![image](https://github.com/user-attachments/assets/0fd1002e-ec9d-48d9-b4b8-8ac0790bc191)
 
